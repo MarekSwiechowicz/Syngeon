@@ -1,0 +1,16 @@
+Oto krótkie objaśnienie, jak zostało wykonane zadanie:
+
+Cel: Utworzenie listy przedziałów czasowych z kontraktów, które pokrywają się z określonym przez użytkownika przedziałem czasowym.
+
+Kroki:
+
+
+Przygotowanie danych: Zdefiniowane zostały dane kontraktowe oraz interesujący nas przedział czasowy.
+
+Filtrowanie kontraktów: Użyto funkcji filter() do wyboru tych kontraktów, które na pewno mają jakiś punkt w obrębie określonego przedziału czasowego.
+
+Formatowanie wyników: Po wyfiltrowaniu odpowiednich kontraktów, użyto funkcji map(), aby przekształcić daty na format ISO.
+
+Wyświetlenie wyników: Skorzystano z console.log() do wyświetlenia przetworzonych kontraktów w konsoli przeglądarki.
+
+Dzięki temu podejściu możemy łatwo zidentyfikować, które z kontraktów mają związek z określonym przez nas przedziałem czasowym i przedstawić te dane w uporządkowanej formie.

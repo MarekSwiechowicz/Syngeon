@@ -1,0 +1,16 @@
+ Oto instrukcja, jak uruchomić podany kod JavaScript w konsoli deweloperskiej Google Chrome:
+
+Otwórz Google Chrome.
+
+Otwórz konsolę deweloperską:
+
+Kliknij prawym przyciskiem myszy na dowolnym miejscu strony internetowej i wybierz "Badaj" z rozwijanego menu.
+Alternatywnie, możesz użyć skrótu klawiaturowego Ctrl+Shift+I (Windows/Linux) lub Cmd+Option+I (Mac).
+Po otwarciu narzędzia do inspekcji, kliknij zakładkę "Konsola".
+Wyczyść konsolę: To krok opcjonalny, ale dzięki niemu łatwiej będzie zobaczyć wynik Twojego skryptu. Jest przycisk "wyczyść konsolę" (wygląda jak koło z linią przez środek) na górze konsoli; możesz na niego kliknąć. Alternatywnie, możesz nacisnąć Ctrl+L lub Cmd+K na Mac.
+
+Skopiuj podany kod JavaScript: Zaznacz cały kod, kliknij na niego prawym przyciskiem myszy i wybierz "Kopiuj".
+
+Wklej kod do konsoli deweloperskiej: Umieść kursor w obszarze wprowadzania konsoli deweloperskiej (powinieneś zobaczyć mrugający kursor), kliknij prawym przyciskiem myszy i wybierz "Wklej" z rozwijanego menu.
+
+Wykonaj kod: Po prostu naciśnij Enter. Kod zostanie uruchomiony, a wynik zostanie wyświetlony w konsoli zaraz pod miejscem, gdzie wkleiłeś kod.
